@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Capital Humano",
+  "description": "Plataforma integrada de gestão de pessoas: engajamento, motivação interna com IA, registro de atas, metas de desempenho (PDI), acompanhamento de onboarding e métricas de turnover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
